@@ -1,0 +1,97 @@
+li {
+  padding: 15px;
+  margin: 15px;
+  background: #ffffff;
+  list-style: none;
+}
+
+ul {
+	list-style: none;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.center {
+	text-align: center;
+}
+
+.right {
+	align-content: right;
+}
+
+img {
+	align-content: center;
+}
+
+h1 {
+	text-align: center;
+	color: #ffffff;
+	
+}
+
+h2 {
+	text-align: center;
+	color: #ffffff;
+	
+}
+
+.create-update-form {
+  padding: 40px;
+  margin: 25px;
+  background: #b5c9dc;
+  border: 1px black solid;
+}
+
+.form-group {
+  margin-bottom: 25px;
+}
+
+.btn-primary {
+	border-radius: 15px;
+	padding: 5px;
+}
+
+html, body{
+	height: 100%;
+}
+body { 
+	background-image: url(http://imgs.abduzeedo.com/files/francois/eatingpatterns/14269243_1018764008240104_1101470701_n.jpg) ;
+	background-position: center center;
+	background-repeat:  no-repeat;
+	background-attachment: fixed;
+	background-size:  cover;
+	background-color: #000000;  
+}
+
+div, body{
+	margin: 0;
+	padding: 0;
+	font-family: exo, sans-serif;
+	color: black;
+}
+
+.footer {
+	text-align: center;
+	background: #b5c9dc;
+	padding: 15px;
+}
+.wrapper {
+	height: 100%; 
+	width: 100%; 
+	}
+
+.message {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%; 
+  height:45%;
+  bottom: 0; 
+  display: block;
+  position: absolute;
+  background-color: rgba(0,0,0,0.6);
+  color: #fff;
+  padding: 0.5em;
+}
